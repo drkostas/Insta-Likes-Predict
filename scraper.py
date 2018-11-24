@@ -103,8 +103,8 @@ def scrape_users(driver, usernames):
 
     return full_data
 
+
 def main(argv):
-    print(argv)
     # Initialize Web Driver
     options = webdriver.ChromeOptions()
     options.add_argument('headless')
