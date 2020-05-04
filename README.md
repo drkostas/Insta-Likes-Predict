@@ -1,4 +1,6 @@
-# Instagram Scraper and Like Predictor
+# Instagram Predict: First attempt
+
+First attempt on predicting the likes a photo will get on Instagram.
 
 Given a list of Instagram users, it downloads their latest photos with their corresponding likes and the number of their followers. Then, it creates a CNN model with **Keras** on **Tensorflow** that predicts the number of likes an image will get.
 
