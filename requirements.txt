@@ -1,5 +1,5 @@
 selenium==3.12.0
-tensorflow==1.15.2
+tensorflow==1.15.4
 opencv_python==3.4.1.15
 termcolor==1.1.0
 numpy==1.15.4
