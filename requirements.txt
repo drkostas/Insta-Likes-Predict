@@ -4,5 +4,5 @@ opencv_python==4.2.0.32
 termcolor==1.1.0
 numpy==1.22.0
 colorama==0.3.9
-Keras==2.2.0
+Keras==3.15.0
 beautifulsoup4==4.6.3
